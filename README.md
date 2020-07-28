@@ -1,5 +1,11 @@
-### Hi there 👋
+### Computer Science student at UFRPE - Recife, Brazil
 
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jlsantos21)](https://twitter.com/jlsantos21)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-lucas-santos-50364710b/)](https://www.linkedin.com/in/jo%C3%A3o-lucas-santos-50364710b/)
+
+
+<!--### Hi there 👋
+-->
 <!--
 **hjvsantos/hjvsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
